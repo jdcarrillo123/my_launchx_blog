@@ -9,6 +9,8 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
+Soy Juan Daniel Carrillo Mercado
+
 > Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
 > adfusique imis amplexus. Agmina per fabricator
 > mittere Erymanthon habetque tot.
