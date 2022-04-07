@@ -5,3 +5,11 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+
+---
+title: "Ya pude yupi"
+date: 2022-04-06T18:16:21-06:00
+description: 'Mi primer blog.'
+---
+
+Ya pude desplegar mi primer blog
